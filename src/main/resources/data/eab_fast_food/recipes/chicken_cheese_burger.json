@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {"item":"minecraft:bread"},{"item":"minecraft:bread"},{"item":"minecraft:cooked_chicken"},{"item":"eab_fast_food:cheese"}
+  ],
+  "result": {
+    "id": "eab_fast_food:chicken_cheese_burger",
+    "count": 1
+  }
+}

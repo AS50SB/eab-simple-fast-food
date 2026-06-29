@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "minecraft:baked_potato"
+  },
+  "result": {
+    "id": "eab_fast_food:fries"
+  }
+}

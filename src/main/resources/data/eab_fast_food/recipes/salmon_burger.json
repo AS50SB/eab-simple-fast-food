@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {"item":"minecraft:bread"},{"item":"minecraft:bread"},{"item":"minecraft:cooked_salmon"}
+  ],
+  "result": {
+    "id": "eab_fast_food:salmon_burger",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {"item":"minecraft:cooked_beef"},{"item":"minecraft:cooked_porkchop"},{"item":"minecraft:cooked_mutton"},{"item":"minecraft:cooked_chicken"},{"item":"minecraft:cooked_salmon"},{"item":"minecraft:cooked_cod"},{"item":"eab_fast_food:fried_scrambled_egg"},{"item":"eab_fast_food:cheese"}
+  ],
+  "result": {
+    "id": "eab_fast_food:mixin_burger",
+    "count": 1
+  }
+}

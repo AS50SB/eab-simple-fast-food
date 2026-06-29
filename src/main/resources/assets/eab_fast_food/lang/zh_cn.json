@@ -1,0 +1,22 @@
+{
+    "item.eab_fast_food.beef_burger": "牛肉汉堡",
+    "item.eab_fast_food.pork_burger": "猪肉汉堡",
+    "item.eab_fast_food.mutton_burger": "羊肉汉堡",
+    "item.eab_fast_food.chicken_burger": "鸡肉汉堡",
+    "item.eab_fast_food.beef_cheese_burger": "芝士牛肉汉堡",
+    "item.eab_fast_food.pork_cheese_burger": "芝士猪肉汉堡",
+    "item.eab_fast_food.mutton_cheese_burger": "芝士羊肉汉堡",
+    "item.eab_fast_food.chicken_cheese_burger": "芝士鸡肉汉堡",
+    "item.eab_fast_food.salmon_burger": "三文鱼汉堡",
+    "item.eab_fast_food.cod_burger": "鳕鱼汉堡",
+    "item.eab_fast_food.salmon_cheese_burger": "芝士三文鱼汉堡",
+    "item.eab_fast_food.cod_cheese_burger": "芝士鳕鱼汉堡",
+    "item.eab_fast_food.mixin_burger": "混合汉堡",
+    "item.eab_fast_food.scrambled_egg": "生炒蛋",
+    "item.eab_fast_food.fried_scrambled_egg": "煎炒蛋",
+    "item.eab_fast_food.cheese": "芝士",
+    "item.eab_fast_food.chicken_nugget": "生鸡块",
+    "item.eab_fast_food.cooked_chicken_nugget": "熟鸡块",
+    "item.eab_fast_food.raw_fries": "生薯条",
+    "item.eab_fast_food.fries": "薯条"
+}

@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "eab_fast_food",
+	"version": "${version}",
+	"name": "E&B's Simple Fast Food",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"E&B"
+	],
+	"contact": {
+		"homepage": "https://www.modrinth.com/mod/eab-simple-fast-food",
+		"sources": "https://github.com/AS50SB/eab-simple-fast-food"
+	},
+	"license": "MIT",
+	"icon": "assets/eab_fast_food/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"eab.burger.EaBSimpleFastFoodMod"
+		]
+	},
+	"mixins": [
+		"eab_fast_food.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

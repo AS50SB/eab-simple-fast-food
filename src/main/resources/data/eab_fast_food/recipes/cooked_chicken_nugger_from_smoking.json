@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "eab_fast_food:chicken_nugget"
+  },
+  "result": {
+    "id": "eab_fast_food:cooked_chicken_nugger"
+  }
+}
