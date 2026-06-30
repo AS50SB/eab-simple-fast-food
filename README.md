@@ -1,5 +1,5 @@
 # E&B 的简单快餐  
-该模组的灵感来源于https://www.curseforge.com/minecraft/mc-mods/autovws-burger-mod，**但并未使用其源码和贴图**  
+该模组的灵感来源于https://www.curseforge.com/minecraft/mc-mods/autovws-burger-mod ，**但并未使用其源码和贴图**  
 什么，你问我用了什么AI写代码？  
 ***我告诉你，我这次没用AI，我自己写的！***  
 模组名称：E&B's Simple Fast Food Mod  
