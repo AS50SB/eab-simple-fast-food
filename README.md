@@ -7,4 +7,6 @@
 模组也可称为：E&B's Fast Food 和 Fast Food Mod  
 模组ID：eab_fast_food  
 模组包名：eab.burger  
-v1.0.0尚未添加完整的合成配方  
+v1.0.0尚未添加完整的合成配方，1.1.0加入  
+v1.0.0食品提供的饥饿值较低，1.1.0版本将上调  
+我的MC百科：not_have_name
